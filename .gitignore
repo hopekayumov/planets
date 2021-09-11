@@ -1,7 +1,6 @@
 .DS_Store
 node_modules
 planets-fact-site
-screenshot.png
 
 # local env files
 .env.local
